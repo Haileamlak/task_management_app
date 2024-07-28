@@ -47,9 +47,9 @@ class _HomeScreenState extends State<HomeScreen> {
 
     FirebaseMessaging.onMessageOpenedApp.listen((RemoteMessage message) {
       debugPrint('A new onMessageOpenedApp event was published!');
-      // Handle the notification that opened the app
     });
   }
+
 
   @override
   Widget build(BuildContext context) {
