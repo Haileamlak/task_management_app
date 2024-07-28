@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDOV1rn0-3hWmjkdsm_2MWjDV25SpKa6gQ',
+    apiKey: '<Your api key>',
     appId: '1:927830802611:web:ac0d32b65d81f0149bb0c6',
     messagingSenderId: '927830802611',
     projectId: 'task-management-app-674e5',
@@ -53,7 +53,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyANp-h7P4lmcLxGuJQ11nLdpRq3V5Bl_hk',
+    apiKey: '<Your api key>',
     appId: '1:927830802611:android:06a658748748582a9bb0c6',
     messagingSenderId: '927830802611',
     projectId: 'task-management-app-674e5',
@@ -61,7 +61,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAvwV1v2N3RjsRcskqX1x4Zg2ZegVQg5vk',
+    apiKey: '<Your api key>',
     appId: '1:927830802611:ios:08a064a22c0ec45c9bb0c6',
     messagingSenderId: '927830802611',
     projectId: 'task-management-app-674e5',
@@ -70,7 +70,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAvwV1v2N3RjsRcskqX1x4Zg2ZegVQg5vk',
+    apiKey: '<Your api key>',
     appId: '1:927830802611:ios:8cd3c6660148a3869bb0c6',
     messagingSenderId: '927830802611',
     projectId: 'task-management-app-674e5',
