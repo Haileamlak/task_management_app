@@ -11,7 +11,3 @@
 - **Task Creation**: Easily add tasks with titles, descriptions, due dates, and priority levels.
 - **Task Organization**: Categorize tasks and filter them by priority or due date.
 - **Reminders & Notifications**: Set reminders to ensure you never miss a deadline.
-
-## Screenshots
-
-<!-- Add screenshots of the app here -->
