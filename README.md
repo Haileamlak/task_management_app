@@ -1,16 +1,17 @@
-# task_management_app
+# Task Manager App
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Made%20with%20Flutter-02569B?logo=flutter&logoColor=white)
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+**Task Manager** is a beautifully designed mobile application built with love using Flutter. It helps you organize your tasks, set priorities, and manage your time efficiently. Whether you're juggling work, personal projects, or daily to-dos, this app has got you covered.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Task Creation**: Easily add tasks with titles, descriptions, due dates, and priority levels.
+- **Task Organization**: Categorize tasks and filter them by priority or due date.
+- **Reminders & Notifications**: Set reminders to ensure you never miss a deadline.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<!-- Add screenshots of the app here -->
